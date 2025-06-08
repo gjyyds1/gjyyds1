@@ -4,7 +4,7 @@
 
 ## 精选项目
 
-- [EZMC](https://github.com/gjyyds1/AntiBot): 一个为 Minecraft 服务器防御Bot的插件。
+- [AntiBot](https://github.com/gjyyds1/AntiBot): 一个为 Minecraft 服务器防御Bot的插件。
 - [GJBot](https://github.com/gjyyds1/GJBot): 基于 Python 和 Flask 构建的 QQ 机器人，用于自动化任务和与用户交互。
 
 ## 文档
